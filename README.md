@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59721293/116867931-fb214980-ac61-11eb-947e-532bb6abc0a4.jpg" align="right" />
+<img src="https://user-images.githubusercontent.com/59721293/116868919-c910e700-ac63-11eb-8850-711bc436bd77.png" align="right" />
 
 ### Hi, I'm Kyu 👋
 
