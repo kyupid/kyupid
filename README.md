@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/59721293/116868919-c910e700-ac63-11eb-8850-711bc436bd77.png" align="right" />
-
 ### Hi, I'm Kyu 👋
 
 - [코드스쿼드](https://codesquad.kr/)라는 부트캠프에서 **자바/스프링** 위주의 전반적인 웹 백엔드 개발 학습.
