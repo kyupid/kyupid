@@ -1,1 +1,2 @@
-수정중
+- [짧은 생각과 TIL](https://velog.io/@kyukim)
+- [정리된 글](https://kyucumber.tistory.com/)
