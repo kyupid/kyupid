@@ -4,7 +4,7 @@
 - [김영한님의 스프링 MVC 강의 정리](https://github.com/kyupid/spring-mvc) ████████████░░░░░░░░ 66%
 - [백엔드 인터뷰 질문 내것으로 만들기](https://github.com/kyupid/backend-interview-question) ████░░░░░░░░░░░░░░░░ 20%
 - [개인 공부 글쓰기 스터디](https://github.com/java-squid/2022-jubilant) ████████░░░░░░░░░░░░ 40%
-- [JPA&CI/CD맛보기 - TDD 연습 위한 팀프로젝트](https://github.com/JoAndKim/greenery-backend)████░░░░░░░░░░░░░░░░ 20%
+- [JPA&CI/CD맛보기&TDD 연습 위한 팀프로젝트](https://github.com/JoAndKim/greenery-backend)████░░░░░░░░░░░░░░░░ 20%
 
 
 ### interests...
