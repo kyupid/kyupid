@@ -9,6 +9,7 @@
 
 
 ### interests...
+- [최범균님 JPA 기본 강의](https://youtube.com/playlist?list=PLwouWTPuIjUi9Sih9mEci4Rqhz1VqiQXX)
 - [스프링 시큐리티에서 JWT](https://github.com/real-world-study/realworld/pull/34/commits)
 - JPA, Spring Data JPA
 - CI/CD, Jenkins
