@@ -1,8 +1,10 @@
 ### working on...
 - [최범균님의 TDD 시작하기를 읽으며 배운 것을 정리](https://github.com/kyupid/tddb)
 - [백엔드 인터뷰 질문 내것으로 만들기](https://github.com/kyupid/backend-interview-question) 
-- [개인 공부 글쓰기 스터디](https://github.com/java-squid/2022-jubilant) 
-- [JPA-CI/CD-TDD 연습 위한 팀프로젝트](https://github.com/JoAndKim/greenery-backend)
+- [JPA-CI/CD-TEST 연습 위한 API서버 프로젝트](https://github.com/JoAndKim/greenery-backend)
+
+#### done with...
+- [~~개인 공부 글쓰기 스터디~~](https://github.com/java-squid/2022-jubilant) 
 - [~~김영한님 자바 ORM 표준 JPA 프로그래밍 - 기본편 스터디~~](https://github.com/spring-god-study/jpa-basic)
 - [~~JUnit5 & Mockito 통해 테스트란 무엇인지 느껴보기~~](https://github.com/kyupid/test-dev-process-with-todo-list) 
 - [~~김영한님의 스프링 MVC 강의 정리~~](https://github.com/kyupid/spring-mvc) 
