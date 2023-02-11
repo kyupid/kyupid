@@ -1,4 +1,4 @@
-안녕하세요 웹개발 실무 1년 경험이 있는 김연우입니다
+안녕하세요 백엔드 개발자입니다.
 
 📰 [Blog](https://kyucumber.tistory.com/)
 
